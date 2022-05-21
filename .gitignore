@@ -5,3 +5,4 @@ config.json
 *.wip*
 .parcel-cache
 store.json
+public/index.html
